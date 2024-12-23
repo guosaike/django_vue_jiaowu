@@ -1,3 +1,5 @@
+**在线购买系统**：https://ake999.com/109.html
+
 需要代码，联系微信 python_kk或者qq：976870170（备注github，不备注不通过）
 
 需要代码，联系微信 python_kk或者qq：976870170（备注github，不备注不通过）
@@ -6,7 +8,7 @@
 
 ![img](./200.png)
 
-
+**在线购买系统**：https://ake999.com/109.html
 
 一、主要技术：python、django、vue、mysql、echarts、bootstrap、jquery、css、cookie、session等基本技术实现
 
